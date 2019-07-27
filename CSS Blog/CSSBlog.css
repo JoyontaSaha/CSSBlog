@@ -1,0 +1,36 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  width: 1000px;
+  height: 1000px;
+  border: 20px #bdc3c7 solid;
+  margin-top: 5%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+  margin-left: 10%;
+}
+div {
+  color: #3498db;
+  margin-left: 2%;
+  padding-top: 2%;
+  text-transform: uppercase;
+  word-spacing: 2px;
+  letter-spacing: 2px;
+}
+h1{
+  color: #2c3e50;
+  margin-left: 2%;
+}
+p {
+  margin-left: 2%;
+}
+.p1 {
+  border-left: 5px #bdc3c7 solid;
+  padding-left: 1%;
+}
+.style1 {
+  border-top: 1px #bdc3c7 solid;
+}
+.p2 {
+  border-left: 5px #bdc3c7 solid;
+  padding-left: 1%;
+}
